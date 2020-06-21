@@ -1,0 +1,14 @@
+.clear {
+    clear: both;
+ }
+footer {
+    width: auto;
+    padding: 30px;
+    background: rgba(19, 36, 54, 0.9); 
+    text-align: center;
+    font-weight: bold;
+    color: white;
+ }
+footer p {
+    color: #fff;
+}
